@@ -1,0 +1,23 @@
+{
+  "name": "express-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express-lambda.js",
+  "engines": {
+    "node": ">=6.9.5"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "mabels/express-lambda"
+  },
+  "license": "AFL-2.0",
+  "bugs": {
+    "url": "https://github.com/mabels/express-lambda/issues"
+  },
+  "homepage": "https://github.com/mabels/express-lambda#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "4.16.1"
+  }
+}
